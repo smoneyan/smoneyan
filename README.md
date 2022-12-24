@@ -3,13 +3,7 @@
 
 - 📫 How to reach me **smoneyan@gmail.com**
 
-<p>
-
-<iframe src="https://giphy.com/embed/13GIgrGdslD9oQ" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-typing-unpopular-opinion-13GIgrGdslD9oQ"></a></p>
-
-</p>
-
-
+![Alt text](https://media1.giphy.com/media/13GIgrGdslD9oQ/giphy.gif?cid=790b7611fcb67a9dd64dc980ef41a714bd5be940b70f0ee1&rid=giphy.gif&ct=g)
 
 
 <h3 align="left">Connect with me:</h3>
